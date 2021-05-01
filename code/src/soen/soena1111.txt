@@ -1,0 +1,15 @@
+
+2018/11/01 19:51:56  , get class schedule , [studentID] ,
+2018/11/01 19:55:48  , get class schedule , [studentID] , Request successfully completed ,fall - soen1111    inse1111 
+winter -   
+summer -   inse3333 
+2018/11/01 19:56:13  , drop course , [studentID, courseID] , Request successfully completed ,soens1111 is successfully drop in inse3333
+
+2018/11/01 19:56:29  , get class schedule , [studentID] , Request successfully completed ,fall - soen1111   inse1111  
+winter -   
+summer -   
+2018/11/01 19:56:41  , enrol course ,  [studentID, courseID, semester] , Request successfully completed ,soens1111is successfully enrolled in comp1111
+
+2018/11/01 19:56:57  , get class schedule , [studentID] , Request successfully completed ,fall - soen1111   comp1111  inse1111 
+winter -   
+summer -   

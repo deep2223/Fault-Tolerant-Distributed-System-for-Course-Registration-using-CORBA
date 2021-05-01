@@ -1,0 +1,78 @@
+
+2018/11/01 20:34:01  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter - inse2222   
+summer -   
+2018/11/01 20:34:04  , enrol course ,  [studentID, courseID, semester] ,Max course capacity exceed for inses1111
+2018/11/01 20:34:24  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter - inse2222   
+summer -   
+2018/11/01 20:34:31  , enrol course ,  [studentID, courseID, semester] ,Max course capacity exceed for inses1111
+2018/11/01 20:36:23  , enrol course ,  [studentID, courseID, semester] ,Max course capacity exceed for inses1111
+2018/11/01 20:50:41  , enrol course ,  [studentID, courseID, semester] ,Max course capacity exceed for inses1111
+2018/11/01 21:03:27  , enrol course ,  [studentID, courseID, semester] ,inses1111is successfully enrolled in soen3333
+2018/11/01 21:03:46  , enrol course ,  [studentID, courseID, semester] ,inses1111is successfully enrolled in comp1111
+2018/11/01 21:04:01  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111   comp1111  
+winter - inse2222   
+summer -   soen3333 
+2018/11/01 21:04:23  , enrol course ,  [studentID, courseID, semester] ,Max course capacity exceed for inses1111
+2018/11/01 21:04:35  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    comp1111 
+winter - inse2222   
+summer -  soen3333  
+2018/11/01 21:15:36  , add course , [courseID, semester] ,
+2018/11/02 23:45:16  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter - inse2222   
+summer -   
+2018/11/02 23:45:34  , add course , [courseID, semester] ,
+2018/11/02 23:45:44  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter -  soen2222  
+summer -   
+2018/11/02 23:48:32  , enrol course ,  [studentID, courseID, semester] ,inses1111is successfully enrolled in inse3333
+2018/11/02 23:48:40  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter -  soen2222  
+summer - inse3333   
+2018/11/02 23:48:43  , add course , [courseID, semester] ,
+2018/11/02 23:48:57  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter -  soen2222  
+summer -   comp3333 
+2018/11/02 23:50:24  , add course , [courseID, semester] ,
+2018/11/02 23:55:02  , enrol course ,  [studentID, courseID, semester] ,inses1111is successfully enrolled in soen2222
+2018/11/02 23:55:10  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter - inse2222  soen2222  
+summer -   
+2018/11/02 23:55:20  , drop course , [studentID, courseID] , Request successfully completed , inses1111 is successfully drop in inse2222
+2018/11/02 23:55:27  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter -   soen2222 
+summer -   
+2018/11/02 23:55:33  , add course , [courseID, semester] ,
+2018/11/03 00:04:39  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter -  soen2222  
+summer -   
+2018/11/03 00:04:44  , add course , [courseID, semester] ,
+2018/11/03 00:12:20  , add course , [courseID, semester] ,
+2018/11/03 00:27:27  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter -   soen2222 
+summer -   
+2018/11/03 00:27:34  , add course , [courseID, semester] ,
+2018/11/03 00:33:24  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter -   soen2222 
+summer -   
+2018/11/03 00:33:30  , add course , [courseID, semester] ,
+2018/11/03 00:41:03  , add course , [courseID, semester] ,
+2018/11/03 00:54:13  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter -   soen2222 
+summer -   
+2018/11/03 00:54:21  , add course , [courseID, semester] ,
+2018/11/03 00:58:11  , add course , [courseID, semester] ,
+2018/11/03 01:00:52  , add course , [courseID, semester] ,
+2018/11/03 01:06:30  , add course , [courseID, semester] ,
+2018/11/03 01:09:56  , add course , [courseID, semester] ,
+2018/11/03 01:25:58  , add course , [courseID, semester] ,
+2018/11/03 01:31:04  , add course , [courseID, semester] ,
+2018/11/03 01:56:51  , add course , [courseID, semester] ,
+2018/11/03 01:57:13  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter - inse2222   
+summer -   
+2018/11/03 02:01:14  , add course , [courseID, semester] ,
+2018/11/03 02:05:11  , add course , [courseID, semester] ,
+2018/11/03 02:19:22  , add course , [courseID, semester] ,
+2018/11/03 02:49:26  , add course , [courseID, semester] ,

@@ -1,0 +1,19 @@
+module InterFace1
+{
+  interface InterFace2
+  {
+  
+     string addCourse(in string courseID, in string semester);
+	 string removeCourse(in string courseID,in string semester);
+	 string listCourseAvailability (in string semester);
+	 string enrolCourse (in string studentID,in string courseID,in string semester);
+	 string getClassSchedule (in string studentID);
+	 string swapCourse (in string studentID,in string newcourseID,in string oldcourseID);
+	 string dropCourse (in string studentID, in string courseID);
+	 void courseCapacity (in float Capacity);
+	 void UserId (in string id);
+  
+  };
+
+
+};

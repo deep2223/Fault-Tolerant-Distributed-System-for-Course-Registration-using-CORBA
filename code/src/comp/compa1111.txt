@@ -1,0 +1,43 @@
+
+2018/11/01 19:45:43  , get class schedule , [studentID] , Request successfully completed ,fall - comp1111    inse2222 
+winter -   
+summer - comp3333   
+2018/11/01 19:46:06  , enrol course ,  [studentID, courseID, semester] , Request successfully completed ,comps1111is successfully enrolled in soen1111
+
+2018/11/01 19:46:25  , get class schedule , [studentID] , Request successfully completed ,fall - comp1111   inse2222  soen1111 
+winter -   
+summer - comp3333   
+2018/11/01 19:46:48  , enrol course ,  [studentID, courseID, semester] , Request failed ,Max course capacity exceed for comps1111
+
+2018/11/01 19:47:10  , get class schedule , [studentID] , Request successfully completed ,fall - comp1111   soen1111  inse2222 
+winter -   
+summer - comp3333   
+2018/11/01 19:47:22  , drop course , [studentID, courseID] , Request successfully completed ,comps1111 is successfully drop in inse2222
+
+2018/11/01 19:47:39  , get class schedule , [studentID] , Request successfully completed ,fall - comp1111   soen1111  
+winter -   
+summer - comp3333   
+2018/11/01 19:47:52  , enrol course ,  [studentID, courseID, semester] , Request successfully completed ,comps1111is successfully enrolled in soen2222
+
+2018/11/01 19:48:25  , get class schedule , [studentID] , Request successfully completed ,fall - comp1111   soen1111 soen2222  
+winter -   
+summer - comp3333   
+2018/11/01 19:48:50  , drop course , [studentID, courseID] , Request successfully completed ,comps1111 is successfully drop in soen1111
+
+2018/11/01 19:49:02  , enrol course ,  [studentID, courseID, semester] , Request successfully completed ,comps1111is successfully enrolled in inse2222
+
+2018/11/01 19:49:19  , get class schedule , [studentID] , Request successfully completed ,fall - comp1111   soen2222  inse2222 
+winter -   
+summer - comp3333   
+2018/11/01 19:49:36  , enrol course ,  [studentID, courseID, semester] , Request failed ,Max course capacity exceed for comps1111
+
+2018/11/01 19:49:58  , get class schedule , [studentID] , Request successfully completed ,fall - comp1111   soen2222  inse2222 
+winter -   
+summer - comp3333   
+2018/11/01 19:50:37  , drop course , [studentID, courseID] , Request successfully completed ,comps1111 is successfully drop in soen2222
+
+2018/11/01 19:51:01  , enrol course ,  [studentID, courseID, semester] , Request successfully completed ,comps1111is successfully enrolled in soen3333
+
+2018/11/01 19:51:25  , get class schedule , [studentID] , Request successfully completed ,fall - comp1111    inse2222 
+winter -   
+summer - comp3333  soen3333  

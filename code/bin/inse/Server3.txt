@@ -1,0 +1,1191 @@
+
+2018/10/30 01:43:11 ,request comming from /127.0.0.1 port : 64111 ,reply sent to /127.0.0.1 port : 64111
+
+
+2018/10/30 01:46:11 ,request comming from /127.0.0.1 port : 55661 ,reply sent to /127.0.0.1 port : 55661
+
+
+2018/10/30 01:51:38 ,request comming from /127.0.0.1 port : 57109 ,reply sent to /127.0.0.1 port : 57109
+
+
+2018/10/30 01:51:38 ,request comming from /127.0.0.1 port : 57110 ,reply sent to /127.0.0.1 port : 57110
+
+
+2018/10/30 01:51:46 ,request comming from /127.0.0.1 port : 57115 ,reply sent to /127.0.0.1 port : 57115
+
+
+2018/10/30 01:56:29 ,request comming from /127.0.0.1 port : 57400 ,reply sent to /127.0.0.1 port : 57400
+
+
+2018/10/30 02:08:07 ,request comming from /127.0.0.1 port : 59402 ,reply sent to /127.0.0.1 port : 59402
+
+
+2018/10/30 02:11:56 ,request comming from /127.0.0.1 port : 57147 ,reply sent to /127.0.0.1 port : 57147
+
+
+2018/10/30 02:19:02 ,request comming from /127.0.0.1 port : 59562 ,reply sent to /127.0.0.1 port : 59562
+
+
+2018/10/30 19:23:51 ,request comming from /127.0.0.1 port : 65503 ,reply sent to /127.0.0.1 port : 65503
+
+
+2018/10/30 19:24:11 ,request comming from /127.0.0.1 port : 65505 ,reply sent to /127.0.0.1 port : 65505
+
+
+2018/10/30 19:24:11 ,request comming from /127.0.0.1 port : 65507 ,reply sent to /127.0.0.1 port : 65507
+
+
+2018/10/30 19:24:16 ,request comming from /127.0.0.1 port : 65511 ,reply sent to /127.0.0.1 port : 65511
+
+
+2018/10/30 19:24:31 ,request comming from /127.0.0.1 port : 65512 ,reply sent to /127.0.0.1 port : 65512
+
+
+2018/10/30 19:24:31 ,request comming from /127.0.0.1 port : 65515 ,reply sent to /127.0.0.1 port : 65515
+
+
+2018/10/30 19:24:31 ,request comming from /127.0.0.1 port : 65516 ,reply sent to /127.0.0.1 port : 65516
+
+
+2018/10/30 19:24:31 ,request comming from /127.0.0.1 port : 65517 ,reply sent to /127.0.0.1 port : 65517
+
+
+2018/10/30 19:24:40 ,request comming from /127.0.0.1 port : 65519 ,reply sent to /127.0.0.1 port : 65519
+
+
+2018/10/30 19:25:11 ,request comming from /127.0.0.1 port : 65520 ,reply sent to /127.0.0.1 port : 65520
+
+
+2018/10/30 19:25:13 ,request comming from /127.0.0.1 port : 65522 ,reply sent to /127.0.0.1 port : 65522
+
+
+2018/10/30 19:25:27 ,request comming from /127.0.0.1 port : 65524 ,reply sent to /127.0.0.1 port : 65524
+
+
+2018/10/30 21:34:16 ,request comming from /127.0.0.1 port : 55639 ,reply sent to /127.0.0.1 port : 55639
+
+
+2018/10/30 21:37:48 ,request comming from /127.0.0.1 port : 62371 ,reply sent to /127.0.0.1 port : 62371
+
+
+2018/10/31 01:54:42 ,request comming from /127.0.0.1 port : 55350 ,reply sent to /127.0.0.1 port : 55350
+
+
+2018/10/31 01:58:06 ,request comming from /127.0.0.1 port : 55354
+2018/10/31 02:02:55 ,request comming from /127.0.0.1 port : 55357
+2018/10/31 02:08:01 ,request comming from /127.0.0.1 port : 55359
+2018/10/31 02:11:51 ,request comming from /127.0.0.1 port : 55361
+2018/10/31 02:18:37 ,request comming from /127.0.0.1 port : 55364
+2018/10/31 02:30:48 ,request comming from /127.0.0.1 port : 55367 ,reply sent to /127.0.0.1 port : 55367
+
+
+2018/10/31 02:30:48 ,request comming from /127.0.0.1 port : 55368 ,reply sent to /127.0.0.1 port : 55368
+
+
+2018/10/31 02:38:37 ,request comming from /127.0.0.1 port : 55371 ,reply sent to /127.0.0.1 port : 55371
+
+
+2018/10/31 02:44:17 ,request comming from /127.0.0.1 port : 55373 ,reply sent to /127.0.0.1 port : 55373
+
+
+2018/10/31 02:44:17 ,request comming from /127.0.0.1 port : 55374 ,reply sent to /127.0.0.1 port : 55374
+
+
+2018/10/31 02:46:55 ,request comming from /127.0.0.1 port : 55375 ,reply sent to /127.0.0.1 port : 55375
+
+
+2018/10/31 02:46:55 ,request comming from /127.0.0.1 port : 55376 ,reply sent to /127.0.0.1 port : 55376
+
+
+2018/10/31 02:46:55 ,request comming from /127.0.0.1 port : 55378 ,reply sent to /127.0.0.1 port : 55378
+
+
+2018/10/31 02:46:55 ,request comming from /127.0.0.1 port : 55380 ,reply sent to /127.0.0.1 port : 55380
+
+
+2018/10/31 02:46:55 ,request comming from /127.0.0.1 port : 55383 ,reply sent to /127.0.0.1 port : 55383
+
+
+2018/10/31 02:46:55 ,request comming from /127.0.0.1 port : 55385 ,reply sent to /127.0.0.1 port : 55385
+
+
+2018/10/31 02:47:29 ,request comming from /127.0.0.1 port : 55386 ,reply sent to /127.0.0.1 port : 55386
+
+
+2018/10/31 02:52:27 ,request comming from /127.0.0.1 port : 55390 ,reply sent to /127.0.0.1 port : 55390
+
+
+2018/10/31 02:52:27 ,request comming from /127.0.0.1 port : 55391 ,reply sent to /127.0.0.1 port : 55391
+
+
+2018/10/31 02:52:27 ,request comming from /127.0.0.1 port : 55393 ,reply sent to /127.0.0.1 port : 55393
+
+
+2018/10/31 02:52:27 ,request comming from /127.0.0.1 port : 55395 ,reply sent to /127.0.0.1 port : 55395
+
+
+2018/10/31 02:52:27 ,request comming from /127.0.0.1 port : 55399 ,reply sent to /127.0.0.1 port : 55399
+
+
+2018/10/31 02:52:27 ,request comming from /127.0.0.1 port : 55401 ,reply sent to /127.0.0.1 port : 55401
+
+
+2018/10/31 02:59:33 ,request comming from /127.0.0.1 port : 55404 ,reply sent to /127.0.0.1 port : 55404
+
+
+2018/10/31 02:59:33 ,request comming from /127.0.0.1 port : 55405 ,reply sent to /127.0.0.1 port : 55405
+
+
+2018/10/31 02:59:33 ,request comming from /127.0.0.1 port : 55407 ,reply sent to /127.0.0.1 port : 55407
+
+
+2018/10/31 02:59:33 ,request comming from /127.0.0.1 port : 55408 ,reply sent to /127.0.0.1 port : 55408
+
+
+2018/10/31 02:59:33 ,request comming from /127.0.0.1 port : 55410 ,reply sent to /127.0.0.1 port : 55410
+
+
+2018/10/31 02:59:33 ,request comming from /127.0.0.1 port : 55413 ,reply sent to /127.0.0.1 port : 55413
+
+
+2018/10/31 03:04:21 ,request comming from /127.0.0.1 port : 55414 ,reply sent to /127.0.0.1 port : 55414
+
+
+2018/10/31 03:04:21 ,request comming from /127.0.0.1 port : 55415 ,reply sent to /127.0.0.1 port : 55415
+
+
+2018/10/31 03:04:21 ,request comming from /127.0.0.1 port : 55416 ,reply sent to /127.0.0.1 port : 55416
+
+
+2018/10/31 03:04:21 ,request comming from /127.0.0.1 port : 55419 ,reply sent to /127.0.0.1 port : 55419
+
+
+2018/10/31 03:05:08 ,request comming from /127.0.0.1 port : 55423 ,reply sent to /127.0.0.1 port : 55423
+
+
+2018/10/31 03:58:41 ,request comming from /127.0.0.1 port : 55429 ,reply sent to /127.0.0.1 port : 55429
+
+
+2018/10/31 03:58:41 ,request comming from /127.0.0.1 port : 55430 ,reply sent to /127.0.0.1 port : 55430
+
+
+2018/10/31 03:58:41 ,request comming from /127.0.0.1 port : 55432 ,reply sent to /127.0.0.1 port : 55432
+
+
+2018/10/31 03:58:41 ,request comming from /127.0.0.1 port : 55434 ,reply sent to /127.0.0.1 port : 55434
+
+
+2018/10/31 03:58:41 ,request comming from /127.0.0.1 port : 55435 ,reply sent to /127.0.0.1 port : 55435
+
+
+2018/10/31 04:00:40 ,request comming from /127.0.0.1 port : 55436 ,reply sent to /127.0.0.1 port : 55436
+
+
+2018/10/31 04:00:40 ,request comming from /127.0.0.1 port : 55437 ,reply sent to /127.0.0.1 port : 55437
+
+
+2018/10/31 04:00:40 ,request comming from /127.0.0.1 port : 55438 ,reply sent to /127.0.0.1 port : 55438
+
+
+2018/10/31 04:00:40 ,request comming from /127.0.0.1 port : 55441 ,reply sent to /127.0.0.1 port : 55441
+
+
+2018/10/31 04:00:40 ,request comming from /127.0.0.1 port : 55442 ,reply sent to /127.0.0.1 port : 55442
+
+
+2018/10/31 04:00:40 ,request comming from /127.0.0.1 port : 55443 ,reply sent to /127.0.0.1 port : 55443
+
+
+2018/10/31 04:00:50 ,request comming from /127.0.0.1 port : 55445 ,reply sent to /127.0.0.1 port : 55445
+
+
+2018/10/31 04:03:40 ,request comming from /127.0.0.1 port : 55447 ,reply sent to /127.0.0.1 port : 55447
+
+
+2018/10/31 04:03:40 ,request comming from /127.0.0.1 port : 55448 ,reply sent to /127.0.0.1 port : 55448
+
+
+2018/10/31 04:03:40 ,request comming from /127.0.0.1 port : 55450 ,reply sent to /127.0.0.1 port : 55450
+
+
+2018/10/31 04:03:40 ,request comming from /127.0.0.1 port : 55452 ,reply sent to /127.0.0.1 port : 55452
+
+
+2018/10/31 04:03:40 ,request comming from /127.0.0.1 port : 55453 ,reply sent to /127.0.0.1 port : 55453
+
+
+2018/10/31 04:03:40 ,request comming from /127.0.0.1 port : 55454 ,reply sent to /127.0.0.1 port : 55454
+
+
+2018/10/31 04:05:03 ,request comming from /127.0.0.1 port : 55456 ,reply sent to /127.0.0.1 port : 55456
+
+
+2018/10/31 04:06:35 ,request comming from /127.0.0.1 port : 55458 ,reply sent to /127.0.0.1 port : 55458
+
+
+2018/10/31 04:06:35 ,request comming from /127.0.0.1 port : 55459 ,reply sent to /127.0.0.1 port : 55459
+
+
+2018/10/31 04:06:35 ,request comming from /127.0.0.1 port : 55461 ,reply sent to /127.0.0.1 port : 55461
+
+
+2018/10/31 04:06:35 ,request comming from /127.0.0.1 port : 55463 ,reply sent to /127.0.0.1 port : 55463
+
+
+2018/10/31 04:06:35 ,request comming from /127.0.0.1 port : 55464 ,reply sent to /127.0.0.1 port : 55464
+
+
+2018/10/31 04:06:35 ,request comming from /127.0.0.1 port : 55465 ,reply sent to /127.0.0.1 port : 55465
+
+
+2018/10/31 04:09:34 ,request comming from /127.0.0.1 port : 55466 ,reply sent to /127.0.0.1 port : 55466
+
+
+2018/10/31 04:09:34 ,request comming from /127.0.0.1 port : 55467 ,reply sent to /127.0.0.1 port : 55467
+
+
+2018/10/31 04:09:48 ,request comming from /127.0.0.1 port : 55469 ,reply sent to /127.0.0.1 port : 55469
+
+
+2018/11/01 19:40:33 ,enrolcourse request to server2 (SOEN) & server 1(COMP), , Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+2018/11/01 19:40:33  , insea1111 , listCourseAvailability , sucessfull\n\n, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+2018/11/01 19:41:49  , insea1111 , enrolcourse , unsucessfull\n\n, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+2018/11/01 19:42:36  , insea1111 , enrolcourse , unsucessfull\n\n
+2018/11/01 19:45:52 ,request comming from /127.0.0.1 port : 55489 ,reply sent to /127.0.0.1 port : 55489
+
+
+2018/11/01 19:46:20 ,request comming from /127.0.0.1 port : 55491 ,reply sent to /127.0.0.1 port : 55491
+
+
+2018/11/01 19:46:20 ,request comming from /127.0.0.1 port : 55493 ,reply sent to /127.0.0.1 port : 55493
+
+
+2018/11/01 19:46:29 ,request comming from /127.0.0.1 port : 55497 ,reply sent to /127.0.0.1 port : 55497
+
+
+2018/11/01 19:47:07 ,request comming from /127.0.0.1 port : 55498 ,reply sent to /127.0.0.1 port : 55498
+
+
+2018/11/01 19:47:07 ,request comming from /127.0.0.1 port : 55500 ,reply sent to /127.0.0.1 port : 55500
+
+
+2018/11/01 19:47:17 ,request comming from /127.0.0.1 port : 55503 ,reply sent to /127.0.0.1 port : 55503
+
+
+2018/11/01 19:47:37 ,request comming from /127.0.0.1 port : 55504 ,reply sent to /127.0.0.1 port : 55504
+
+
+2018/11/01 19:47:44 ,request comming from /127.0.0.1 port : 55506 ,reply sent to /127.0.0.1 port : 55506
+
+
+2018/11/01 19:48:21 ,request comming from /127.0.0.1 port : 55508 ,reply sent to /127.0.0.1 port : 55508
+
+
+2018/11/01 19:48:21 ,request comming from /127.0.0.1 port : 55510 ,reply sent to /127.0.0.1 port : 55510
+
+
+2018/11/01 19:48:29 ,request comming from /127.0.0.1 port : 55514 ,reply sent to /127.0.0.1 port : 55514
+
+
+2018/11/01 19:49:15 ,request comming from /127.0.0.1 port : 55517 ,reply sent to /127.0.0.1 port : 55517
+
+
+2018/11/01 19:49:15 ,request comming from /127.0.0.1 port : 55518 ,reply sent to /127.0.0.1 port : 55518
+
+
+2018/11/01 19:49:15 ,request comming from /127.0.0.1 port : 55520 ,reply sent to /127.0.0.1 port : 55520
+
+
+2018/11/01 19:49:15 ,request comming from /127.0.0.1 port : 55521 ,reply sent to /127.0.0.1 port : 55521
+
+
+2018/11/01 19:49:26 ,request comming from /127.0.0.1 port : 55523 ,reply sent to /127.0.0.1 port : 55523
+
+
+2018/11/01 19:49:55 ,request comming from /127.0.0.1 port : 55525 ,reply sent to /127.0.0.1 port : 55525
+
+
+2018/11/01 19:49:55 ,request comming from /127.0.0.1 port : 55527 ,reply sent to /127.0.0.1 port : 55527
+
+
+2018/11/01 19:50:03 ,request comming from /127.0.0.1 port : 55529 ,reply sent to /127.0.0.1 port : 55529
+
+
+2018/11/01 19:51:22 ,request comming from /127.0.0.1 port : 55531 ,reply sent to /127.0.0.1 port : 55531
+
+
+2018/11/01 19:51:22 ,request comming from /127.0.0.1 port : 55534 ,reply sent to /127.0.0.1 port : 55534
+
+
+2018/11/01 19:51:30 ,request comming from /127.0.0.1 port : 55538 ,reply sent to /127.0.0.1 port : 55538
+
+
+2018/11/01 19:52:00 ,request comming from /127.0.0.1 port : 55539 ,reply sent to /127.0.0.1 port : 55539
+
+
+2018/11/01 19:52:48 ,request comming from /127.0.0.1 port : 55541 ,reply sent to /127.0.0.1 port : 55541
+
+
+2018/11/01 19:53:13 ,request comming from /127.0.0.1 port : 55543 ,reply sent to /127.0.0.1 port : 55543
+
+
+2018/11/01 19:53:13 ,request comming from /127.0.0.1 port : 55546 ,reply sent to /127.0.0.1 port : 55546
+
+
+2018/11/01 19:53:21 ,request comming from /127.0.0.1 port : 55549 ,reply sent to /127.0.0.1 port : 55549
+
+
+2018/11/01 19:53:22 ,request comming from /127.0.0.1 port : 55552 ,reply sent to /127.0.0.1 port : 55552
+
+
+2018/11/01 19:53:22 ,request comming from /127.0.0.1 port : 55553 ,reply sent to /127.0.0.1 port : 55553
+
+
+2018/11/01 19:53:22 ,request comming from /127.0.0.1 port : 55554 ,reply sent to /127.0.0.1 port : 55554
+
+
+2018/11/01 19:53:24 ,request comming from /127.0.0.1 port : 55556 ,reply sent to /127.0.0.1 port : 55556
+
+
+2018/11/01 19:53:50 ,request comming from /127.0.0.1 port : 55557 ,reply sent to /127.0.0.1 port : 55557
+
+
+2018/11/01 19:53:50 ,request comming from /127.0.0.1 port : 55560 ,reply sent to /127.0.0.1 port : 55560
+
+
+2018/11/01 19:53:57 ,request comming from /127.0.0.1 port : 55562 ,reply sent to /127.0.0.1 port : 55562
+
+
+2018/11/01 19:54:15 ,request comming from /127.0.0.1 port : 55565 ,reply sent to /127.0.0.1 port : 55565
+
+
+2018/11/01 19:54:15 ,request comming from /127.0.0.1 port : 55567 ,reply sent to /127.0.0.1 port : 55567
+
+
+2018/11/01 19:54:15 ,request comming from /127.0.0.1 port : 55568 ,reply sent to /127.0.0.1 port : 55568
+
+
+2018/11/01 19:54:15 ,request comming from /127.0.0.1 port : 55569 ,reply sent to /127.0.0.1 port : 55569
+
+
+2018/11/01 19:54:23 ,request comming from /127.0.0.1 port : 55571 ,reply sent to /127.0.0.1 port : 55571
+
+
+2018/11/01 19:54:53 ,request comming from /127.0.0.1 port : 55572 ,reply sent to /127.0.0.1 port : 55572
+
+
+2018/11/01 19:55:02 ,request comming from /127.0.0.1 port : 55573 ,reply sent to /127.0.0.1 port : 55573
+
+
+2018/11/01 19:55:02 ,request comming from /127.0.0.1 port : 55576 ,reply sent to /127.0.0.1 port : 55576
+
+
+2018/11/01 19:55:02 ,request comming from /127.0.0.1 port : 55577 ,reply sent to /127.0.0.1 port : 55577
+
+
+2018/11/01 19:55:02 ,request comming from /127.0.0.1 port : 55578 ,reply sent to /127.0.0.1 port : 55578
+
+
+2018/11/01 19:55:09 ,request comming from /127.0.0.1 port : 55580 ,reply sent to /127.0.0.1 port : 55580
+
+
+2018/11/01 19:55:53 ,request comming from /127.0.0.1 port : 55582 ,reply sent to /127.0.0.1 port : 55582
+
+
+2018/11/01 19:56:24 ,request comming from /127.0.0.1 port : 55583 ,reply sent to /127.0.0.1 port : 55583
+
+
+2018/11/01 19:56:37 ,request comming from /127.0.0.1 port : 55584 ,reply sent to /127.0.0.1 port : 55584
+
+
+2018/11/01 19:56:54 ,request comming from /127.0.0.1 port : 55587 ,reply sent to /127.0.0.1 port : 55587
+
+
+2018/11/01 19:56:54 ,request comming from /127.0.0.1 port : 55589 ,reply sent to /127.0.0.1 port : 55589
+
+
+2018/11/01 19:57:03 ,request comming from /127.0.0.1 port : 55593 ,reply sent to /127.0.0.1 port : 55593
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+2018/11/01 20:56:35  , insea1111 , enrolcourse , unsucessfull\n\n
+2018/11/01 20:57:04 ,enrolcourse request to server2 (SOEN) & server 1(COMP), , Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+2018/11/01 20:57:04  , insea1111 , listCourseAvailability , sucessfull\n\n, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+2018/11/01 20:57:28  , insea1111 , enrolcourse , unsucessfull\n\n, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+2018/11/01 20:57:55  , insea1111 , enrolcourse , unsucessfull\n\n, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/01 21:03:38 ,enrolcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+
+2018/11/01 21:03:57 ,enrolcourse request to server1 (COMP) , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+
+2018/11/02 21:33:03 ,request comming from /127.0.0.1 port : 55060 ,reply sent to /127.0.0.1 port : 55060
+
+
+2018/11/02 21:33:39 ,request comming from /127.0.0.1 port : 57576 ,reply sent to /127.0.0.1 port : 57576
+
+
+2018/11/02 21:33:39 ,request comming from /127.0.0.1 port : 57578 ,reply sent to /127.0.0.1 port : 57578
+
+
+2018/11/02 21:33:56 ,request comming from /127.0.0.1 port : 57579 ,reply sent to /127.0.0.1 port : 57579
+
+
+2018/11/02 21:33:56 ,request comming from /127.0.0.1 port : 57582 ,reply sent to /127.0.0.1 port : 57582
+
+
+2018/11/02 21:34:00 ,request comming from /127.0.0.1 port : 57583 ,reply sent to /127.0.0.1 port : 57583
+
+
+2018/11/02 21:43:44 ,request comming from /127.0.0.1 port : 55359 ,reply sent to /127.0.0.1 port : 55359
+
+
+2018/11/02 21:44:14 ,request comming from /127.0.0.1 port : 53607 ,reply sent to /127.0.0.1 port : 53607
+
+
+2018/11/02 21:44:14 ,request comming from /127.0.0.1 port : 53609 ,reply sent to /127.0.0.1 port : 53609
+
+
+2018/11/02 21:44:18 ,request comming from /127.0.0.1 port : 53614 ,reply sent to /127.0.0.1 port : 53614
+
+
+2018/11/02 21:55:35 ,request comming from /127.0.0.1 port : 64248 ,reply sent to /127.0.0.1 port : 64248
+
+
+2018/11/02 21:55:50 ,request comming from /127.0.0.1 port : 64251 ,reply sent to /127.0.0.1 port : 64251
+
+
+2018/11/02 21:55:50 ,request comming from /127.0.0.1 port : 64253 ,reply sent to /127.0.0.1 port : 64253
+
+
+2018/11/02 21:55:59 ,request comming from /127.0.0.1 port : 64255 ,reply sent to /127.0.0.1 port : 64255
+
+
+2018/11/02 21:55:59 ,request comming from /127.0.0.1 port : 64256 ,reply sent to /127.0.0.1 port : 64256
+
+
+2018/11/02 21:56:17 ,request comming from /127.0.0.1 port : 64259 ,reply sent to /127.0.0.1 port : 64259
+
+
+2018/11/02 21:56:17 ,request comming from /127.0.0.1 port : 64261 ,reply sent to /127.0.0.1 port : 64261
+
+
+2018/11/02 21:56:20 ,request comming from /127.0.0.1 port : 64265 ,reply sent to /127.0.0.1 port : 64265
+
+
+2018/11/02 21:56:38 ,request comming from /127.0.0.1 port : 64266 ,reply sent to /127.0.0.1 port : 64266
+
+
+2018/11/02 21:56:38 ,request comming from /127.0.0.1 port : 64269 ,reply sent to /127.0.0.1 port : 64269
+
+
+2018/11/02 22:09:03 ,request comming from /127.0.0.1 port : 59409 ,reply sent to /127.0.0.1 port : 59409
+
+
+2018/11/02 22:09:03 ,request comming from /127.0.0.1 port : 59411 ,reply sent to /127.0.0.1 port : 59411
+
+
+2018/11/02 22:09:06 ,request comming from /127.0.0.1 port : 59414 ,reply sent to /127.0.0.1 port : 59414
+
+
+2018/11/02 22:09:30 ,request comming from /127.0.0.1 port : 59416 ,reply sent to /127.0.0.1 port : 59416
+
+
+2018/11/02 22:09:30 ,request comming from /127.0.0.1 port : 59418 ,reply sent to /127.0.0.1 port : 59418
+
+
+2018/11/02 22:10:58 ,request comming from /127.0.0.1 port : 52993 ,reply sent to /127.0.0.1 port : 52993
+
+
+2018/11/02 22:11:07 ,request comming from /127.0.0.1 port : 52995 ,reply sent to /127.0.0.1 port : 52995
+
+
+2018/11/02 22:11:07 ,request comming from /127.0.0.1 port : 52996 ,reply sent to /127.0.0.1 port : 52996
+
+
+2018/11/02 22:11:10 ,request comming from /127.0.0.1 port : 52998 ,reply sent to /127.0.0.1 port : 52998
+
+
+2018/11/02 22:11:25 ,request comming from /127.0.0.1 port : 53001 ,reply sent to /127.0.0.1 port : 53001
+
+
+2018/11/02 22:11:25 ,request comming from /127.0.0.1 port : 53003 ,reply sent to /127.0.0.1 port : 53003
+
+
+2018/11/02 22:13:52 ,request comming from /127.0.0.1 port : 54312 ,reply sent to /127.0.0.1 port : 54312
+
+
+2018/11/02 22:13:52 ,request comming from /127.0.0.1 port : 54314 ,reply sent to /127.0.0.1 port : 54314
+
+
+2018/11/02 22:14:04 ,request comming from /127.0.0.1 port : 54316 ,reply sent to /127.0.0.1 port : 54316
+
+
+2018/11/02 22:14:04 ,request comming from /127.0.0.1 port : 54317 ,reply sent to /127.0.0.1 port : 54317
+
+
+2018/11/02 22:15:35 ,request comming from /127.0.0.1 port : 62596 ,reply sent to /127.0.0.1 port : 62596
+
+
+2018/11/02 22:15:35 ,request comming from /127.0.0.1 port : 62598 ,reply sent to /127.0.0.1 port : 62598
+
+
+2018/11/02 22:15:43 ,request comming from /127.0.0.1 port : 62601 ,reply sent to /127.0.0.1 port : 62601
+
+
+2018/11/02 22:15:43 ,request comming from /127.0.0.1 port : 62603 ,reply sent to /127.0.0.1 port : 62603
+
+
+2018/11/02 22:18:36 ,request comming from /127.0.0.1 port : 53173 ,reply sent to /127.0.0.1 port : 53173
+
+
+2018/11/02 22:18:36 ,request comming from /127.0.0.1 port : 53174 ,reply sent to /127.0.0.1 port : 53174
+
+
+2018/11/02 22:18:50 ,request comming from /127.0.0.1 port : 53177 ,reply sent to /127.0.0.1 port : 53177
+
+
+2018/11/02 22:18:50 ,request comming from /127.0.0.1 port : 53179 ,reply sent to /127.0.0.1 port : 53179
+
+
+2018/11/02 22:21:41 ,request comming from /127.0.0.1 port : 64374 ,reply sent to /127.0.0.1 port : 64374
+
+
+2018/11/02 22:21:41 ,request comming from /127.0.0.1 port : 64376 ,reply sent to /127.0.0.1 port : 64376
+
+
+2018/11/02 22:22:08 ,request comming from /127.0.0.1 port : 64377 ,reply sent to /127.0.0.1 port : 64377
+
+
+2018/11/02 22:22:08 ,request comming from /127.0.0.1 port : 64380 ,reply sent to /127.0.0.1 port : 64380
+
+
+2018/11/02 22:46:00 ,request comming from /127.0.0.1 port : 52166 ,reply sent to /127.0.0.1 port : 52166
+
+
+2018/11/02 22:47:10 ,request comming from /127.0.0.1 port : 52168 ,reply sent to /127.0.0.1 port : 52168
+
+
+2018/11/02 22:47:24 ,request comming from /127.0.0.1 port : 52170 ,reply sent to /127.0.0.1 port : 52170
+
+
+2018/11/02 22:47:24 ,request comming from /127.0.0.1 port : 52172 ,reply sent to /127.0.0.1 port : 52172
+
+
+2018/11/02 22:47:26 ,request comming from /127.0.0.1 port : 52176 ,reply sent to /127.0.0.1 port : 52176
+
+
+2018/11/02 22:47:45 ,request comming from /127.0.0.1 port : 52177 ,reply sent to /127.0.0.1 port : 52177
+
+
+2018/11/02 22:47:45 ,request comming from /127.0.0.1 port : 52178 ,reply sent to /127.0.0.1 port : 52178
+
+
+2018/11/02 22:47:45 ,request comming from /127.0.0.1 port : 52180 ,reply sent to /127.0.0.1 port : 52180
+
+
+2018/11/02 22:47:45 ,request comming from /127.0.0.1 port : 52182 ,reply sent to /127.0.0.1 port : 52182
+
+
+2018/11/02 22:47:50 ,request comming from /127.0.0.1 port : 52185 ,reply sent to /127.0.0.1 port : 52185
+
+
+2018/11/02 22:48:28 ,request comming from /127.0.0.1 port : 52187 ,reply sent to /127.0.0.1 port : 52187
+
+
+2018/11/02 22:48:28 ,request comming from /127.0.0.1 port : 52189 ,reply sent to /127.0.0.1 port : 52189
+
+
+2018/11/02 22:54:55 ,request comming from /127.0.0.1 port : 56218 ,reply sent to /127.0.0.1 port : 56218
+
+
+2018/11/02 22:54:55 ,request comming from /127.0.0.1 port : 56219 ,reply sent to /127.0.0.1 port : 56219
+
+
+2018/11/02 22:54:58 ,request comming from /127.0.0.1 port : 56222 ,reply sent to /127.0.0.1 port : 56222
+
+
+2018/11/02 22:55:25 ,request comming from /127.0.0.1 port : 56223 ,reply sent to /127.0.0.1 port : 56223
+
+
+2018/11/02 22:55:25 ,request comming from /127.0.0.1 port : 56226 ,reply sent to /127.0.0.1 port : 56226
+
+
+2018/11/02 22:55:29 ,request comming from /127.0.0.1 port : 56228 ,reply sent to /127.0.0.1 port : 56228
+
+
+2018/11/02 22:56:34 ,request comming from /127.0.0.1 port : 56230 ,reply sent to /127.0.0.1 port : 56230
+
+
+2018/11/02 22:56:34 ,request comming from /127.0.0.1 port : 56232 ,reply sent to /127.0.0.1 port : 56232
+
+
+2018/11/02 22:56:38 ,request comming from /127.0.0.1 port : 56236 ,reply sent to /127.0.0.1 port : 56236
+
+
+2018/11/02 22:56:53 ,request comming from /127.0.0.1 port : 56237 ,reply sent to /127.0.0.1 port : 56237
+
+
+2018/11/02 22:56:53 ,request comming from /127.0.0.1 port : 56240 ,reply sent to /127.0.0.1 port : 56240
+
+
+2018/11/02 22:56:53 ,request comming from /127.0.0.1 port : 56241 ,reply sent to /127.0.0.1 port : 56241
+
+
+2018/11/02 22:56:53 ,request comming from /127.0.0.1 port : 56242 ,reply sent to /127.0.0.1 port : 56242
+
+
+2018/11/02 22:56:57 ,request comming from /127.0.0.1 port : 56244 ,reply sent to /127.0.0.1 port : 56244
+
+
+2018/11/02 23:14:04 ,request comming from /127.0.0.1 port : 49508 ,reply sent to /127.0.0.1 port : 49508
+
+
+2018/11/02 23:14:59 ,request comming from /127.0.0.1 port : 49509 ,reply sent to /127.0.0.1 port : 49509
+
+
+2018/11/02 23:14:59 ,request comming from /127.0.0.1 port : 49511 ,reply sent to /127.0.0.1 port : 49511
+
+
+2018/11/02 23:15:17 ,request comming from /127.0.0.1 port : 49516 ,reply sent to /127.0.0.1 port : 49516
+
+
+2018/11/02 23:15:17 ,request comming from /127.0.0.1 port : 49518 ,reply sent to /127.0.0.1 port : 49518
+
+
+2018/11/02 23:15:17 ,request comming from /127.0.0.1 port : 49519 ,reply sent to /127.0.0.1 port : 49519
+
+
+2018/11/02 23:15:17 ,request comming from /127.0.0.1 port : 49520 ,reply sent to /127.0.0.1 port : 49520
+
+
+2018/11/02 23:15:42 ,request comming from /127.0.0.1 port : 49522 ,reply sent to /127.0.0.1 port : 49522
+
+
+2018/11/02 23:16:17 ,request comming from /127.0.0.1 port : 62280 ,reply sent to /127.0.0.1 port : 62280
+
+
+2018/11/02 23:16:17 ,request comming from /127.0.0.1 port : 62282 ,reply sent to /127.0.0.1 port : 62282
+
+
+2018/11/02 23:16:51 ,request comming from /127.0.0.1 port : 62285 ,reply sent to /127.0.0.1 port : 62285
+
+
+2018/11/02 23:17:32 ,request comming from /127.0.0.1 port : 62286 ,reply sent to /127.0.0.1 port : 62286
+
+
+2018/11/02 23:29:47 ,request comming from /127.0.0.1 port : 52168 ,reply sent to /127.0.0.1 port : 52168
+
+
+2018/11/02 23:29:47 ,request comming from /127.0.0.1 port : 52170 ,reply sent to /127.0.0.1 port : 52170
+
+
+2018/11/02 23:34:38 ,request comming from /127.0.0.1 port : 53795 ,reply sent to /127.0.0.1 port : 53795
+
+
+2018/11/02 23:34:38 ,request comming from /127.0.0.1 port : 53797 ,reply sent to /127.0.0.1 port : 53797
+
+
+2018/11/02 23:38:46 ,request comming from /127.0.0.1 port : 51587 ,reply sent to /127.0.0.1 port : 51587
+
+
+2018/11/02 23:38:46 ,request comming from /127.0.0.1 port : 51589 ,reply sent to /127.0.0.1 port : 51589
+
+
+2018/11/02 23:41:00 ,request comming from /127.0.0.1 port : 51261 ,reply sent to /127.0.0.1 port : 51261
+
+
+2018/11/02 23:42:31 ,request comming from /127.0.0.1 port : 51263 ,reply sent to /127.0.0.1 port : 51263
+
+
+2018/11/02 23:42:45 ,request comming from /127.0.0.1 port : 61511 ,reply sent to /127.0.0.1 port : 61511
+
+
+2018/11/02 23:42:45 ,request comming from /127.0.0.1 port : 61512 ,reply sent to /127.0.0.1 port : 61512
+
+
+2018/11/02 23:42:45 ,request comming from /127.0.0.1 port : 61514 ,reply sent to /127.0.0.1 port : 61514
+
+
+2018/11/02 23:42:45 ,request comming from /127.0.0.1 port : 61516 ,reply sent to /127.0.0.1 port : 61516
+
+
+2018/11/02 23:42:47 ,request comming from /127.0.0.1 port : 61520 ,reply sent to /127.0.0.1 port : 61520
+
+
+2018/11/02 23:43:02 ,request comming from /127.0.0.1 port : 61521 ,reply sent to /127.0.0.1 port : 61521
+
+
+2018/11/02 23:43:02 ,request comming from /127.0.0.1 port : 61524 ,reply sent to /127.0.0.1 port : 61524
+
+
+2018/11/02 23:43:02 ,request comming from /127.0.0.1 port : 61525 ,reply sent to /127.0.0.1 port : 61525
+
+
+2018/11/02 23:43:02 ,request comming from /127.0.0.1 port : 61526 ,reply sent to /127.0.0.1 port : 61526
+
+
+2018/11/02 23:43:04 ,request comming from /127.0.0.1 port : 61527 ,reply sent to /127.0.0.1 port : 61527
+
+
+2018/11/02 23:43:17 ,request comming from /127.0.0.1 port : 61531 ,reply sent to /127.0.0.1 port : 61531
+
+
+2018/11/02 23:44:02 ,request comming from /127.0.0.1 port : 61532 ,reply sent to /127.0.0.1 port : 61532
+
+
+2018/11/02 23:44:02 ,request comming from /127.0.0.1 port : 61534 ,reply sent to /127.0.0.1 port : 61534
+
+
+2018/11/02 23:44:05 ,request comming from /127.0.0.1 port : 61539 ,reply sent to /127.0.0.1 port : 61539
+
+
+2018/11/02 23:44:44 ,request comming from /127.0.0.1 port : 61543 ,reply sent to /127.0.0.1 port : 61543
+
+
+2018/11/02 23:44:44 ,request comming from /127.0.0.1 port : 61545 ,reply sent to /127.0.0.1 port : 61545
+
+
+2018/11/02 23:44:45 ,request comming from /127.0.0.1 port : 61546 ,reply sent to /127.0.0.1 port : 61546
+
+
+2018/11/02 23:44:45 ,request comming from /127.0.0.1 port : 61547 ,reply sent to /127.0.0.1 port : 61547
+
+
+2018/11/02 23:44:48 ,request comming from /127.0.0.1 port : 61548 ,reply sent to /127.0.0.1 port : 61548
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/02 23:45:42 ,enrolcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+
+2018/11/02 23:48:53 ,enrolcourse request to server1 (COMP) , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+
+2018/11/02 23:50:31 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/02 23:55:07 ,enrolcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+
+2018/11/02 23:55:46 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+
+2018/11/03 00:04:53 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 00:12:29 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 00:19:19 ,request comming from /127.0.0.1 port : 52410 ,reply sent to /127.0.0.1 port : 52410
+
+
+2018/11/03 00:19:42 ,request comming from /127.0.0.1 port : 52412 ,reply sent to /127.0.0.1 port : 52412
+
+
+2018/11/03 00:19:42 ,request comming from /127.0.0.1 port : 52414 ,reply sent to /127.0.0.1 port : 52414
+
+
+2018/11/03 00:19:44 ,request comming from /127.0.0.1 port : 52418 ,reply sent to /127.0.0.1 port : 52418
+
+
+2018/11/03 00:20:00 ,request comming from /127.0.0.1 port : 52421 ,reply sent to /127.0.0.1 port : 52421
+
+
+2018/11/03 00:20:25 ,request comming from /127.0.0.1 port : 52422 ,reply sent to /127.0.0.1 port : 52422
+
+
+2018/11/03 00:20:25 ,request comming from /127.0.0.1 port : 52423 ,reply sent to /127.0.0.1 port : 52423
+
+
+2018/11/03 00:20:33 ,request comming from /127.0.0.1 port : 52425 ,reply sent to /127.0.0.1 port : 52425
+
+
+2018/11/03 00:20:55 ,request comming from /127.0.0.1 port : 62622 ,reply sent to /127.0.0.1 port : 62622
+
+
+2018/11/03 00:20:55 ,request comming from /127.0.0.1 port : 62624 ,reply sent to /127.0.0.1 port : 62624
+
+
+2018/11/03 00:20:57 ,request comming from /127.0.0.1 port : 62627 ,reply sent to /127.0.0.1 port : 62627
+
+
+2018/11/03 00:21:29 ,request comming from /127.0.0.1 port : 62632 ,reply sent to /127.0.0.1 port : 62632
+
+
+2018/11/03 00:25:10 ,request comming from /127.0.0.1 port : 62481 ,reply sent to /127.0.0.1 port : 62481
+
+
+2018/11/03 00:25:10 ,request comming from /127.0.0.1 port : 62483 ,reply sent to /127.0.0.1 port : 62483
+
+
+2018/11/03 00:25:10 ,request comming from /127.0.0.1 port : 62485 ,reply sent to /127.0.0.1 port : 62485
+
+
+2018/11/03 00:25:10 ,request comming from /127.0.0.1 port : 62486 ,reply sent to /127.0.0.1 port : 62486
+
+
+2018/11/03 00:25:16 ,request comming from /127.0.0.1 port : 62488 ,reply sent to /127.0.0.1 port : 62488
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+
+2018/11/03 00:33:46 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 00:41:12 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 00:52:01 ,request comming from /127.0.0.1 port : 54206 ,reply sent to /127.0.0.1 port : 54206
+
+
+2018/11/03 00:52:38 ,request comming from /127.0.0.1 port : 54208 ,reply sent to /127.0.0.1 port : 54208
+
+
+2018/11/03 00:52:38 ,request comming from /127.0.0.1 port : 54209 ,reply sent to /127.0.0.1 port : 54209
+
+
+2018/11/03 00:52:38 ,request comming from /127.0.0.1 port : 54211 ,reply sent to /127.0.0.1 port : 54211
+
+
+2018/11/03 00:52:38 ,request comming from /127.0.0.1 port : 54212 ,reply sent to /127.0.0.1 port : 54212
+
+
+2018/11/03 00:52:40 ,request comming from /127.0.0.1 port : 54217 ,reply sent to /127.0.0.1 port : 54217
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+
+2018/11/03 00:54:30 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 00:58:23 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 01:00:59 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 01:06:36 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 01:10:03 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 01:26:06 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 01:57:08 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+
+2018/11/03 02:01:20 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 02:05:18 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 02:19:29 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+
+2018/11/03 02:30:56 ,request comming from /127.0.0.1 port : 57388 ,reply sent to /127.0.0.1 port : 57388
+
+
+2018/11/03 02:31:10 ,request comming from /127.0.0.1 port : 50013 ,reply sent to /127.0.0.1 port : 50013
+
+
+2018/11/03 02:31:10 ,request comming from /127.0.0.1 port : 50015 ,reply sent to /127.0.0.1 port : 50015
+
+
+2018/11/03 02:31:10 ,request comming from /127.0.0.1 port : 50016 ,reply sent to /127.0.0.1 port : 50016
+
+
+2018/11/03 02:31:10 ,request comming from /127.0.0.1 port : 50017 ,reply sent to /127.0.0.1 port : 50017
+
+
+2018/11/03 02:31:12 ,request comming from /127.0.0.1 port : 54028 ,reply sent to /127.0.0.1 port : 54028
+
+
+2018/11/03 02:31:26 ,request comming from /127.0.0.1 port : 62076 ,reply sent to /127.0.0.1 port : 62076
+
+
+2018/11/03 02:31:26 ,request comming from /127.0.0.1 port : 62077 ,reply sent to /127.0.0.1 port : 62077
+
+
+2018/11/03 02:43:56 ,request comming from /127.0.0.1 port : 65028 ,reply sent to /127.0.0.1 port : 65028
+
+
+2018/11/03 02:43:56 ,request comming from /127.0.0.1 port : 65031 ,reply sent to /127.0.0.1 port : 65031
+
+
+2018/11/03 02:44:02 ,request comming from /127.0.0.1 port : 65035 ,reply sent to /127.0.0.1 port : 65035
+
+
+2018/11/03 02:44:22 ,request comming from /127.0.0.1 port : 65036 ,reply sent to /127.0.0.1 port : 65036
+
+
+2018/11/03 02:44:22 ,request comming from /127.0.0.1 port : 65038 ,reply sent to /127.0.0.1 port : 65038
+
+
+2018/11/03 02:44:26 ,request comming from /127.0.0.1 port : 65043 ,reply sent to /127.0.0.1 port : 65043
+
+
+2018/11/03 02:49:34 , dropcourse request to server2 (SOEN) , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 , , Request message sent from the client to server with port number 8000 ,  , Reply received from the server with port number 8001 , 
+
+ , Reply received from the server with port number 8000 , 
+
+, Request message sent from the client to server with port number 8000 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8000 , 
+
+ , Reply received from the server with port number 8001 , 
+
+, Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8001 , 
+

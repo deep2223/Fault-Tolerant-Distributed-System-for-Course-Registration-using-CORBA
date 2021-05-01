@@ -1,0 +1,31 @@
+
+2018/11/01 19:40:28  , list course availability , [semester] , Request successfully completed ,fall -  inse3333  6, inse1111  3, inse2222  5,  comp2222  4, comp3333  6, comp1111  3, soen1111  3, soen2222  5, soen3333  6, 
+2018/11/01 19:40:45  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter - inse2222   
+summer -   
+2018/11/01 19:41:00  , drop course , [studentID, courseID] , Request successfully completed ,inses1111 is successfully drop in inse2222
+
+2018/11/01 19:41:11  , drop course , [studentID, courseID] , Request successfully completed ,inses1111 is successfully drop in inse1111
+
+2018/11/01 19:41:24  , get class schedule , [studentID] , Request successfully completed ,fall -    
+winter -   
+summer -   
+2018/11/01 19:41:32  , enrol course ,  [studentID, courseID, semester] , Request failed ,Max course capacity exceed for inses1111
+
+2018/11/01 19:42:04  , get class schedule , [studentID] , Request successfully completed ,fall -    
+winter -   
+summer -   
+2018/11/01 19:42:16  , enrol course ,  [studentID, courseID, semester] , Request failed ,Max course capacity exceed for inses1111
+
+2018/11/01 20:54:41  , get class schedule , [studentID] , Request successfully completed ,fall -    
+winter -   
+summer -   
+2018/11/01 20:56:11  , get class schedule , [studentID] , Request successfully completed ,fall - inse1111    
+winter - inse2222   
+summer -   
+2018/11/01 20:56:22  , enrol course ,  [studentID, courseID, semester] , Request failed ,no space available in this subject in this term
+
+2018/11/01 20:56:58  , list course availability , [semester] , Request successfully completed ,summer -  inse3333  2,  comp3333  2, soen3333  2, 
+2018/11/01 20:57:16  , enrol course ,  [studentID, courseID, semester] , Request failed ,no space available in this subject in this term
+
+2018/11/01 20:57:39  , enrol course ,  [studentID, courseID, semester] , Request failed ,no space available in this subject in this term
